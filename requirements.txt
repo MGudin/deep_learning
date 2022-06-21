@@ -34,7 +34,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
 numba==0.45.1
-numpy==1.17.1
+numpy==1.22.0
 pandas==0.25.1
 pandocfilters==1.4.2
 parso==0.5.1
@@ -107,7 +107,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
 numba==0.45.1
-numpy==1.17.1
+numpy==1.22.0
 pandas==0.25.1
 pandocfilters==1.4.2
 parso==0.5.1
